@@ -161,7 +161,7 @@ function nextSort() {
     for (i = 0; i < trArray.length; i++) {
       container.appendChild(trArray[i]);
     }
-    iteration.push(1);npx
+    iteration.push(1);
     thElement[3].removeChild(strElement);
   }
 }
